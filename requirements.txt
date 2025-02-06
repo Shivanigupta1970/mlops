@@ -1,0 +1,5 @@
+pandas
+numpy
+mlflow  #machine learning model
+scikit-learn
+psycopg2  #to connect postgreesql (api)
